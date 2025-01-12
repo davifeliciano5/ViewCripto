@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    max-width: 1080px;
+    margin: 0 auto;
+    color: white;
+}
+
+.logo {
+    font-style: italic;
+    color: white;
+    text-align: right;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.logo span {
+    color: greenyellow;
+}
